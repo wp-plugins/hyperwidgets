@@ -1,0 +1,18 @@
+/* hyperwidgets css-file */
+
+.hyperwidgets_group
+{
+	display: none;
+}
+
+#hyperwidgets_input_button
+{ 
+	background-image: url('folder_edit.png');
+	background-repeat: no-repeat;
+	padding: 0px 0px 18px 18px;
+	text-decoration: none;
+}
+
+#hyper-sidebars{
+	width:160px;
+}
